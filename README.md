@@ -1,4 +1,4 @@
-![Image of Cindy Barreto](images/headshot.jpg
+![Image of Cindy Barreto](images/headshot.png
 "PhD Student in Ecology and Evolutionary Biology")
 ## About Me
 I am a PhD student in the Knutie Lab, at the Ecology and Evolutionary Biology Department, University of Connecticut.
