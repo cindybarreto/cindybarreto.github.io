@@ -2,7 +2,7 @@
 "Cindy Barreto - PhD Student in EEB")
 ## About Me
 I am a PhD student in the Knutie Lab, at the Ecology and Evolutionary Biology Department, University of Connecticut.
-My research project is about the effects of urbanization in the host-parasite evolutionary and ecological mechanisms, in the Darwin's finches and Philornis downsi system, in the Galapagos. I am also interested in: Animal behavior; Animal health; Avian ecology; Bird anatomy and physiology; Conservation Biology; Evolution; Ecosystems ecology; Environmental management strategies; Environmental risks for biodiversity richness; Parasitology.
+My research project is about the effects of urbanization in the host-parasite evolutionary and ecological mechanisms in the Darwin's finches and Philornis downsi system, in Galapagos. I am also interested in: Animal behavior; Animal health; Avian ecology; Bird anatomy and physiology; Conservation Biology; Evolution; Ecosystems ecology; Environmental management strategies; Environmental risks for biodiversity richness; Parasitology.
 [My CV](PDFs/cv.pdf)
 [Contact Info](contact-info.html)
 
