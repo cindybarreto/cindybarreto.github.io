@@ -7,7 +7,6 @@ My research project is about the effects of urbanization in the host-parasite ev
 [Contact Info](contact-info.html)
 
 ## Ongoing Research and Conservation Projects
-![Image of Cindy Barreto ongoing prohects](images/ongoingprojects.png "Cindy Barreto - Ongoing Projects)
 I am also collaborator in the following research and/or conservation projects:
 
 Lateral subsidies from aquatic to terrestrial environments mediated by vertebrates: similarities and contrasts between marine and estuarine islands:
