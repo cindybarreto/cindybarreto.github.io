@@ -1,4 +1,10 @@
-## Ongoing Research and Conservation Projects
+---
+layout: page
+title: Current Research and Conservation Projects
+permalink: /current-research-and-conservation-projects/
+---
+
+# Current Research and Conservation Projects
 I am also collaborator in the following research and/or conservation projects:
 
 Lateral subsidies from aquatic to terrestrial environments mediated by vertebrates: similarities and contrasts between marine and estuarine islands:
