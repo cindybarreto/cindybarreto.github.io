@@ -1,7 +1,9 @@
+![Image of Cindy Barreto](images/headshot.png "Cindy Barreto - PhD Student in EEB") 
+
 ## About Me
 I am a PhD student in the [Knutie Lab](https://www.knutielab.com/), at the [Ecology and Evolutionary Biology Department](https://eeb.uconn.edu/), [University of Connecticut](https://uconn.edu/).
 
-![Image of Cindy Barreto](images/headshot.png "Cindy Barreto - PhD Student in EEB") My research project is about the effects of urbanization on interactions between Darwin’s finches and their introduced parasites in the Galápagos Islands. I am also interested in: Animal behavior; Animal health; Avian ecology; Bird anatomy and physiology; Conservation Biology; Evolution; Ecosystems ecology; Environmental management strategies; Environmental risks for biodiversity richness; Parasitology.
+My research project is about the effects of urbanization on interactions between Darwin’s finches and their introduced parasites in the Galápagos Islands. I am also interested in: Animal behavior; Animal health; Avian ecology; Bird anatomy and physiology; Conservation Biology; Evolution; Ecosystems ecology; Environmental management strategies; Environmental risks for biodiversity richness; Parasitology.
 
 I did my master's degree in Biology of Freshwater Ecosystems at [Universidade Federal do Rio Grande](https://www.furg.br/), Brazil, with an exchange period at [University of Saskatchewan](https://www.usask.ca/), Canada, with fellowship of the Emerging Leaders in the Americas Program (ELAP).
 
