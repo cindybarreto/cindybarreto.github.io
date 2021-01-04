@@ -15,7 +15,7 @@ Marine megafauna is responsible for the movement of a considerable amount of ene
 
 ## RETER-TRINDADE: Recovery of the Terrestrial Ecosystem of the Island of Trindade, avoiding the extinction of endangered species
 
-![Image of Cindy Barreto](images/fregata.jpg "Fregata trinitatis at Trindade Island, Brazil")
+![Image of Cindy Barreto](images/fregatatrini.jpg "Fregata trinitatis at Trindade Island, Brazil")
 
 Trindade Island is a unique insular environment, considered a biodiversity hotspot in the southwestern Atlantic Ocean. However, the introduction of invasive species, as well as fires that have occurred in recent centuries, have compromised the island's terrestrial ecosystem. With the destruction of trees, endangered seabirds such as the Sula sula, extinct locally, and the critically endangered (CR) Fregata trinitatis and Fregata minor nicolli, which used arboreal vegetation for nesting, are no longer seen reproducing in the area for decades. The program brings a unique opportunity to recover the island's natural conditions existing before human colonization. The potential results involve the conservation and recovery of this singular environment and the last effort for the conservation of almost extinct frigate birds.
 
