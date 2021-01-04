@@ -7,7 +7,7 @@ permalink: /current-research-and-conservation-projects/
 # Current Research and Conservation Projects
 I am also collaborator in the following research and/or conservation projects:
 
-# Lateral subsidies from aquatic to terrestrial environments mediated by vertebrates: similarities and contrasts between marine and estuarine islands
+## Lateral subsidies from aquatic to terrestrial environments mediated by vertebrates: similarities and contrasts between marine and estuarine islands
 
 ![Image of Cindy Barreto](images/john.jpg "Johngarthia lagostoma at Trindade Island, Brazil") 
 
