@@ -7,7 +7,8 @@ My research project is about the effects of urbanization on interactions between
 
 I did my master's degree in Biology of Freshwater Ecosystems at [Universidade Federal do Rio Grande](https://www.furg.br/), Brazil, with an exchange period at [University of Saskatchewan](https://www.usask.ca/), Canada, with fellowship of the Emerging Leaders in the Americas Program (ELAP).
 
-I have a degree in Licentiate of Sciences (Biological Sciences) from [Universidade Federal de Pelotas](https://portal.ufpel.edu.br/en/) and a Bachelor in Technology (Environmental Management) from [Instituto Federal Sul-rio-grandense](http://www.ifsul.edu.br/), Pelotas, Rio Grande do Sul, Brazil.
+I have a degree in Licentiate of Sciences (Biological Sciences) from [Universidade Federal de Pelotas](https://portal.ufpel.edu.br/en/) and Bachelor in Technology (Environmental Management) from [Instituto Federal Sul-rio-grandense](http://www.ifsul.edu.br/), Brazil.
 
 For more details, here is [My CV](pdf/cv.pdf)
+
 [Contact Info](contact-info.html)
