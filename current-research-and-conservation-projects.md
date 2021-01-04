@@ -13,7 +13,10 @@ I am also collaborator in the following research and/or conservation projects:
 
 Marine megafauna is responsible for the movement of a considerable amount of energy and matter between the ecosystem compartments, in the form of nutrients and pollutants, in different spatial and temporal scales. This project aims to determine the routes and quantify the lateral subsidies in island environments. Those results are important for local communities, integrating their economical activities with conservation strategies, promoting environmental education and citizen science.
 
-RETER-TRINDADE: Recovery of the Terrestrial Ecosystem of the Island of Trindade, avoiding the extinction of endangered species:
+## RETER-TRINDADE: Recovery of the Terrestrial Ecosystem of the Island of Trindade, avoiding the extinction of endangered species
+
+![Image of Cindy Barreto](images/fregata.jpg "Fregata trinitatis at Trindade Island, Brazil") 
+
 Trindade Island is a unique insular environment, considered a biodiversity hotspot in the southwestern Atlantic Ocean. However, the introduction of invasive species, as well as fires that have occurred in recent centuries, have compromised the island's terrestrial ecosystem. With the destruction of trees, endangered seabirds such as the Sula sula, extinct locally, and the critically endangered (CR) Fregata trinitatis and Fregata minor nicolli, which used arboreal vegetation for nesting, are no longer seen reproducing in the area for decades. The program brings a unique opportunity to recover the island's natural conditions existing before human colonization. The potential results involve the conservation and recovery of this singular environment and the last effort for the conservation of almost extinct frigate birds.
 
 Monitoring of the Ornithofauna of the Port of Rio Grande:
