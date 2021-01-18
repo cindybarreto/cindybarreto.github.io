@@ -14,7 +14,7 @@ For more details, here is [My CV](pdf/cv.pdf)
 [Contact Info](contact-info.html)
 
 
-# Current Research and Conservation Projects
+## Current Research and Conservation Projects
 I am also collaborator in the following research and/or conservation projects:
 
 ### Lateral subsidies from aquatic to terrestrial environments mediated by vertebrates: similarities and contrasts between marine and estuarine islands
@@ -43,3 +43,20 @@ The Lagoa dos Patos estuary (ELPA) and the adjacent marine coast are sites of im
 
 Waterbirds of Rio Grande do Sul state have been poorly studied. This project aims to expand the knowledge of the different species of waterbirds, studying aspects of reproductive biology and feeding strategies, determining the use of habitats, and the connectivity between environments. All the information is made publicly available for communities and academia, as well as environmental authorities, being used to develop conservation strategies such as the National Plans for Environmental Conservation. Besides, the carcasses of birds found dead are deposited in the Birds Collection of Universidade Federal do Rio Grande (CAFURG).
 
+## Contact Information
+
+Feel free to contact me at <cindy.barreto@uconn.edu>
+
+
+Postal address:
+
+ Cindy Barreto
+ 
+ Department of Ecology and Evolutionary Biology
+ 
+ University of Connecticut
+ 
+ Storrs, CT 06269-3043 U.S.A.
+
+[1.2]: https://i.imgur.com/tXSoThF.png (twitter icon with padding)
+  [1]: https://www.twitter.com/realCindyBto
