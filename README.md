@@ -13,4 +13,4 @@ For more details, here is [My CV](pdf/cv.pdf)
 
 [Contact Info](contact-info.html)
 
-## [Research](research.html)
+## Research
