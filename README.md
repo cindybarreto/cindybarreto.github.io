@@ -12,3 +12,5 @@ I have a degree in Licentiate of Sciences (Biological Sciences) from [Universida
 For more details, here is [My CV](pdf/cv.pdf)
 
 [Contact Info](contact-info.html)
+
+#[Ongoing Research and Conservation Projects](research.md)
