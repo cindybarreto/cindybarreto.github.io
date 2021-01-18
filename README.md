@@ -57,16 +57,3 @@ Postal address:
  University of Connecticut
  
  Storrs, CT 06269-3043 U.S.A.
- 
-  [![alt text][1.2]][1]
-   [![alt text][6.2]][6]
-   [![alt text][10.2]][10]
-
-[1.2]: https://i.imgur.com/tXSoThF.png (twitter icon)
-[6.2]: https://i.imgur.com/FTfZyuk.png (instagram icon)
-[10.2]:https://i.imgur.com/4DfAevU.png (linkedin icon)
-  [1]: https://www.twitter.com/realCindyBto
-   [6]: https://www.instagram.com/realcindybarreto
-   [10]:https://www.linkedin.com/in/cindy-barreto-98739362/
-
- [Back to Home](https://cindybarreto.github.io/)
