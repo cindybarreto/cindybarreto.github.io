@@ -22,7 +22,8 @@ Trindade Island is a unique insular environment, considered a biodiversity hotsp
 Monitoring of the Ornithofauna of the Port of Rio Grande:
 Habitat alteration and the establishment of activities with a high risk of contamination must be monitored. However, some species may be beneficiaries of human activities found in industrial and urban spaces that offer easy access to food and shelter. This project aims to quantify and qualify ornithofauna activities, focusing on synanthropic species in the areas of activity of the Port of Rio Grande and its surroundings. This project provides information about the Port of Rio Grande activities’ impacts on the ornithofauna, used by environmental authorities for activities regulation, and for the port administration for mitigation measures.
 
-Long-term studies to assess natural and anthropic impacts in the Lagoa dos Patos estuary and adjacent marine coast:
+## Long-term studies to assess natural and anthropic impacts in the Lagoa dos Patos estuary and adjacent marine coast (PELD)
+![Image of Cindy Barreto](images/peld.jpg "Cindy and a Great Egret at Marinheiros Island, Lagoa dos Patos")
 The Lagoa dos Patos estuary (ELPA) and the adjacent marine coast are sites of importance for resident and migratory fauna, being an area of high biological productivity and ecological complexity. Industrial activities and urbanization may cause environmental harm, requiring historical series monitoring of factors that influence the hydrology and ecological dynamics of the ELPA. This project consists of long term monitoring of the biotic and abiotic factors that influence the ecological dynamics of the ELPA. The results are important for local communities, integrating their economical activities with conservation strategies, promoting environmental education, and citizen science.
 
 Waterbirds in Rio Grande do Sul: distribution, ecology and conservation:
