@@ -21,6 +21,7 @@ Trindade Island is a unique insular environment, considered a biodiversity hotsp
 
 ## Monitoring of the Ornithofauna of the Port of Rio Grande
 
+
 Habitat alteration and the establishment of activities with a high risk of contamination must be monitored. However, some species may be beneficiaries of human activities found in industrial and urban spaces that offer easy access to food and shelter. This project aims to quantify and qualify ornithofauna activities, focusing on synanthropic species in the areas of activity of the Port of Rio Grande and its surroundings. This project provides information about the Port of Rio Grande activities’ impacts on the ornithofauna, used by environmental authorities for activities regulation, and for the port administration for mitigation measures.
 
 ## Long-term studies to assess natural and anthropic impacts in the Lagoa dos Patos estuary and adjacent marine coast (PELD)
