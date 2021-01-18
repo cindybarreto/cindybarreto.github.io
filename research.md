@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Current Research and Conservation Projects
-permalink: /current-research-and-conservation-projects/
+permalink: /research/
 ---
 
 # Current Research and Conservation Projects
