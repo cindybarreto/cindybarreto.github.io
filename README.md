@@ -58,4 +58,4 @@ Postal address:
  
  Storrs, CT 06269-3043 U.S.A.
  
- [Contact Info](contact-info.html)
+ [Back to Home](https://cindybarreto.github.io/)
