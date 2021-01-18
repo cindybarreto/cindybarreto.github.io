@@ -62,7 +62,7 @@ Postal address:
   [![alt text][1.2]][1]
    [![alt text][6.2]][6]
 
-[1.2]: https://i.imgur.com/oQTJzim.png (twitter icon)
-[6.2]: https://i.imgur.com/0QurKs6.png (instagram icon)
+[1.2]: https://i.imgur.com/tXSoThF.png (twitter icon)
+[6.2]: https://i.imgur.com/FTfZyuk.png (instagram icon)
   [1]: https://www.twitter.com/realCindyBto
    [6]: https://www.instagram.com/realcindybarreto
