@@ -50,12 +50,12 @@ Feel free to contact me at <cindy.barreto@uconn.edu>
 
 Postal address:
 
-Cindy Barreto
+  Cindy Barreto
 
-Department of Ecology and Evolutionary Biology
+  Department of Ecology and Evolutionary Biology
 
-University of Connecticut
+  University of Connecticut
 
-Storrs, CT 06269-3043 U.S.A.
+  Storrs, CT 06269-3043 U.S.A.
  
  [Back to Home](https://cindybarreto.github.io/)
