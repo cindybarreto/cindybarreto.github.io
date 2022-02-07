@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Current Research and Conservation Projects
+title: Past Research and Conservation Projects
 permalink: /research/
 ---
 
-# Current Research and Conservation Projects
-I am also collaborator in the following research and/or conservation projects:
+# Past Research and Conservation Projects
+I also collaborated in the following research and/or conservation projects:
 
 ## Lateral subsidies from aquatic to terrestrial environments mediated by vertebrates: similarities and contrasts between marine and estuarine islands
 
