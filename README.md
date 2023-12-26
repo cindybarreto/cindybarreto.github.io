@@ -3,7 +3,7 @@
 ## About Me
 I am a PhD student in the [Rubega Lab](https://rubegalab.uconn.edu/), at the [Ecology and Evolutionary Biology Department](https://eeb.uconn.edu/), [University of Connecticut](https://uconn.edu/).
 
-My research project is about strategies for the conservation of Roseate terns, a federally endangered species that reproduces in the North Atlantic and winters in South America. I am also interested in: Animal behavior; Animal health; Avian ecology; Bird anatomy and physiology; Conservation Biology; Evolution; Ecosystems ecology; Environmental management strategies; Environmental risks for biodiversity richness; Migration and Movement tracking.
+My research project is about how we can use genomics for the conservation of Roseate terns, a federally endangered species that reproduces in the North Atlantic and winters in South America. I am also interested in: Animal behavior; Animal health; Avian ecology; Bird anatomy and physiology; Conservation Biology; Evolution; Ecosystem ecology; Environmental management strategies; Environmental risks for biodiversity richness; Migration and Movement tracking.
 
 I did my master's degree in Biology of Freshwater Ecosystems at [Universidade Federal do Rio Grande](https://www.furg.br/), Brazil, with an exchange period at [University of Saskatchewan](https://www.usask.ca/), Canada, with fellowship of the Emerging Leaders in the Americas Program (ELAP).
 
