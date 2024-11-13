@@ -3,11 +3,13 @@
 ## About Me
 I am a PhD student in the [Rubega Lab](https://rubegalab.uconn.edu/), at the [Ecology and Evolutionary Biology Department](https://eeb.uconn.edu/), [University of Connecticut](https://uconn.edu/).
 
-My research project is about how we can use genomics for the conservation of Roseate terns, a federally endangered species that reproduces in the North Atlantic and winters in South America. I am also interested in: Animal behavior; Animal health; Avian ecology; Bird anatomy and physiology; Conservation Biology; Evolution; Ecosystem ecology; Environmental management strategies; Environmental risks for biodiversity richness; Migration and Movement tracking.
+My research project is about conservation genomics of Roseate terns, a federally endangered species that reproduces in the Northwest Atlantic and winters in South America. I am also interested in: Animal behavior; Bird anatomy and physiology; Conservation Biology; Ecosystems ecology; Ecotoxicology; Environmental
+health; Environmental management strategies; Environmental risks for biodiversity richness; Evolution; Genomics; Migration
+and Movement tracking.
 
-I did my master's degree in Biology of Freshwater Ecosystems at [Universidade Federal do Rio Grande](https://www.furg.br/), Brazil, with an exchange period at [University of Saskatchewan](https://www.usask.ca/), Canada, with fellowship of the Emerging Leaders in the Americas Program (ELAP).
+I did my master's degree in Biology of Freshwater Ecosystems at [Universidade Federal do Rio Grande](https://www.furg.br/), Brazil, with an exchange period at [University of Saskatchewan](https://www.usask.ca/), Canada, with a fellowship from the Emerging Leaders in the Americas Program (ELAP).
 
-I have a degree in Licentiate of Sciences (Biological Sciences) from [Universidade Federal de Pelotas](https://portal.ufpel.edu.br/en/) and Bachelor in Technology (Environmental Management) from [Instituto Federal Sul-rio-grandense](http://www.ifsul.edu.br/), Brazil.
+I have a Licentiate degree in Biological Sciences from [Universidade Federal de Pelotas](https://portal.ufpel.edu.br/en/) and a Bachelor in Environmental Management from [Instituto Federal Sul-rio-grandense](http://www.ifsul.edu.br/), Brazil.
 
 For more details, here is [My CV](pdf/cv.pdf)
 
@@ -20,7 +22,7 @@ I also collaborated in the following research and/or conservation projects:
 
 ![Image of Cindy Barreto](images/john.jpg "Johngarthia lagostoma at Trindade Island, Brazil") 
 
-Marine megafauna is responsible for the movement of a considerable amount of energy and matter between the ecosystem compartments, in the form of nutrients and pollutants, in different spatial and temporal scales. This project aims to determine the routes and quantify the lateral subsidies in island environments. Those results are important for local communities, integrating their economical activities with conservation strategies, promoting environmental education and citizen science.
+Marine megafauna is responsible for the movement of a considerable amount of energy and matter between the ecosystem compartments, in the form of nutrients and pollutants, in different spatial and temporal scales. This project aims to determine the routes and quantify the lateral subsidies in island environments. Those results are important for local communities, integrating their economic activities with conservation strategies, and promoting environmental education and citizen science.
 
 **RETER-TRINDADE: Recovery of the Terrestrial Ecosystem of the Island of Trindade, avoiding the extinction of endangered species**
 
@@ -37,7 +39,7 @@ Habitat alteration and the establishment of activities with a high risk of conta
 
 ![Image of Cindy Barreto](images/peld.jpg "Cindy and a Great Egret at Marinheiros Island, Lagoa dos Patos")
 
-The Lagoa dos Patos estuary (ELPA) and the adjacent marine coast are sites of importance for resident and migratory fauna, being an area of high biological productivity and ecological complexity. Industrial activities and urbanization may cause environmental harm, requiring historical series monitoring of factors that influence the hydrology and ecological dynamics of the ELPA. This project consists of long term monitoring of the biotic and abiotic factors that influence the ecological dynamics of the ELPA. The results are important for local communities, integrating their economical activities with conservation strategies, promoting environmental education, and citizen science.
+The Lagoa dos Patos estuary (ELPA) and the adjacent marine coast are sites of importance for resident and migratory fauna, being an area of high biological productivity and ecological complexity. Industrial activities and urbanization may cause environmental harm, requiring historical series monitoring of factors that influence the hydrology and ecological dynamics of the ELPA. This project consists of long-term monitoring of the biotic and abiotic factors that influence the ecological dynamics of the ELPA. The results are important for local communities, integrating their economic activities with conservation strategies, and promoting environmental education, and citizen science.
 
 **Waterbirds in Rio Grande do Sul: distribution, ecology and conservation**
 
