@@ -1,6 +1,8 @@
 ![Image of Cindy Barreto](images/headshot.png "Cindy Barreto - PhD Student in EEB") 
 
 ## About Me
+.justify-text {
+  text-align: justify;
 I am a PhD student in the [Rubega Lab](https://rubegalab.uconn.edu/), at the [Ecology and Evolutionary Biology Department](https://eeb.uconn.edu/), [University of Connecticut](https://uconn.edu/).
 
 My research project is about conservation genomics of Roseate terns, a federally endangered species that reproduces in the Northwest Atlantic and winters in South America. I am also interested in: Animal behavior; Bird anatomy and physiology; Conservation Biology; Ecosystems ecology; Ecotoxicology; Environmental
@@ -11,7 +13,7 @@ I did my master's degree in Biology of Freshwater Ecosystems at [Universidade Fe
 
 I have a Licentiate degree in Biological Sciences from [Universidade Federal de Pelotas](https://portal.ufpel.edu.br/en/) and a Bachelor in Environmental Management from [Instituto Federal Sul-rio-grandense](http://www.ifsul.edu.br/), Brazil.
 
-For more details, here is [My CV](pdf/cv.pdf)
+For more details, here is [My CV](pdf/cv.pdf)}
 
 
 
