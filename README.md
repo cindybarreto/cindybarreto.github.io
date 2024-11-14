@@ -17,4 +17,4 @@ I have a Licentiate degree in Biological Sciences from [Universidade Federal de 
 
 For more details, here is [My CV](pdf/cv.pdf)
 
-Navigation: | [Research](research.md) | [Contact Information](contact-info.md)
+Navigation: | [Research](research.md) | [Contact Information](contact-info.md) |
