@@ -3,7 +3,7 @@
 I am a PhD student in the [Rubega Lab](https://rubegalab.uconn.edu/), at the [Ecology and Evolutionary Biology Department](https://eeb.uconn.edu/), [University of Connecticut](https://uconn.edu/). My research project is about conservation genomics of Roseate terns, a federally endangered species that reproduces in the Northwest Atlantic and winters in South America.
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="images/headshot.png" alt="Cindy Barreto - PhD Student in EEB" style="float: left; margin-right: 20px; max-width: 150px;">
+  <img src="images/headshot.png" alt="Cindy Barreto - PhD Student in EEB" style="float: left; margin-left: 20px; max-width: 150px;">
   <p>
 I am also interested in: Animal behavior; Bird anatomy and physiology; Conservation Biology; Ecosystems ecology; Ecotoxicology; Environmental
 health; Environmental management strategies; Environmental risks for biodiversity richness; Evolution; Genomics; Migration
