@@ -21,6 +21,7 @@ Marine megafauna is responsible for the movement of a considerable amount of ene
 </p>
  </div>
  Related publication: [Colonial waterbirds provide persistent subsidies to swamp forests along an estuarine island food chain](https://link.springer.com/article/10.1007/s00442-023-05377-y/)
+Related publication:  [Colonial waterbirds provide persistent subsidies to swamp forests along an estuarine island food chain](https://link.springer.com/article/10.1007/s00442-023-0537-y)
 
 ## RETER-TRINDADE: Recovery of the Terrestrial Ecosystem of the Island of Trindade, avoiding the extinction of endangered species
 
