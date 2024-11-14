@@ -1,10 +1,7 @@
 ## About Me
-<table>
-  <tr>
-    <td>
-      <img src="images/headshot.png" alt="Cindy Barreto - PhD Student in EEB">
-    </td>
-    <td>
+<div style="display: flex; align-items: center;">
+  <img src="images/headshot.png" alt="Cindy Barreto - PhD Student in EEB" width="150" style="margin-right: 15px;">
+  <div>
 
 I am a PhD student in the [Rubega Lab](https://rubegalab.uconn.edu/), at the [Ecology and Evolutionary Biology Department](https://eeb.uconn.edu/), [University of Connecticut](https://uconn.edu/).
   
@@ -17,8 +14,8 @@ I did my master's degree in Biology of Freshwater Ecosystems at [Universidade Fe
 I have a Licentiate degree in Biological Sciences from [Universidade Federal de Pelotas](https://portal.ufpel.edu.br/en/) and a Bachelor in Environmental Management from [Instituto Federal Sul-rio-grandense](http://www.ifsul.edu.br/), Brazil.
 
 For more details, here is [My CV](pdf/cv.pdf)
-    </td>
-  </tr>
-</table>
+  </div>
+</div>
+
 
 Navigation: [Research](research.md) [Contact Information](contact-info.md)
