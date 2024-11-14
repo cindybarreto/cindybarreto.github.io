@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Past Research and Conservation Projects
 permalink: /research/
 ---
