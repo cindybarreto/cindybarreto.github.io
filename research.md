@@ -9,6 +9,10 @@ I also collaborated in the following research and/or conservation projects:
 
 ## Lateral subsidies from aquatic to terrestrial environments mediated by vertebrates: similarities and contrasts between marine and estuarine islands
 
+
+
+<p><img ![Image of Cindy Barreto](images/john.jpg "Johngarthia lagostoma at Trindade Island, Brazil") style="float: right; margin: 10px;" width=320px></img></a>
+
 ![Image of Cindy Barreto](images/john.jpg "Johngarthia lagostoma at Trindade Island, Brazil") 
 
 Marine megafauna is responsible for the movement of a considerable amount of energy and matter between the ecosystem compartments, in the form of nutrients and pollutants, in different spatial and temporal scales. This project aims to determine the routes and quantify the lateral subsidies in island environments. Those results are important for local communities, integrating their economical activities with conservation strategies, promoting environmental education and citizen science.
