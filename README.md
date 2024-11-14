@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <img src="images/headshot.png" alt="Cindy Barreto - PhD Student in EEB" width="150">
+      <img src="images/headshot.png" alt="Cindy Barreto - PhD Student in EEB">
     </td>
     <td>
 
