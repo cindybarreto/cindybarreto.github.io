@@ -1,6 +1,8 @@
 ## About Me
-<div style="display: flex; align-items: center;">
-  <img src="images/headshot.png" alt="Cindy Barreto - PhD Student in EEB" width="150" style="margin-right: 15px;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="margin-right: 15px;">
+    <img src="images/headshot.png" alt="Cindy Barreto - PhD Student in EEB">
+  </div>
   <div>
 
 I am a PhD student in the [Rubega Lab](https://rubegalab.uconn.edu/), at the [Ecology and Evolutionary Biology Department](https://eeb.uconn.edu/), [University of Connecticut](https://uconn.edu/).
