@@ -16,6 +16,7 @@ I also collaborated in the following research and/or conservation projects:
 ![Image of Cindy Barreto](images/john.jpg "Johngarthia lagostoma at Trindade Island, Brazil") 
 
 Marine megafauna is responsible for the movement of a considerable amount of energy and matter between the ecosystem compartments, in the form of nutrients and pollutants, in different spatial and temporal scales. This project aims to determine the routes and quantify the lateral subsidies in island environments. Those results are important for local communities, integrating their economical activities with conservation strategies, promoting environmental education and citizen science.
+</p>
 
 ## RETER-TRINDADE: Recovery of the Terrestrial Ecosystem of the Island of Trindade, avoiding the extinction of endangered species
 
@@ -36,3 +37,5 @@ The Lagoa dos Patos estuary (ELPA) and the adjacent marine coast are sites of im
 ## Waterbirds in Rio Grande do Sul: distribution, ecology and conservation
 
 Waterbirds of Rio Grande do Sul state have been poorly studied. This project aims to expand the knowledge of the different species of waterbirds, studying aspects of reproductive biology and feeding strategies, determining the use of habitats, and the connectivity between environments. All the information is made publicly available for communities and academia, as well as environmental authorities, being used to develop conservation strategies such as the National Plans for Environmental Conservation. Besides, the carcasses of birds found dead are deposited in the Birds Collection of Universidade Federal do Rio Grande (CAFURG).
+
+ [Back to Home](https://cindybarreto.github.io/)
