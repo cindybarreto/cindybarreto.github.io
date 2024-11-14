@@ -20,7 +20,7 @@ Small ground-finches (Geospiza fuliginosa), which are endemic to the  Galápagos
 Marine megafauna is responsible for the movement of a considerable amount of energy and matter between the ecosystem compartments, in the form of nutrients and pollutants, in different spatial and temporal scales. This project aimed to determine the routes and quantify the lateral subsidies in island environments. Those results are important for local communities, integrating their economical activities with conservation strategies, promoting environmental education and citizen science.
 </p>
  </div>
- Related publication:  [Colonial waterbirds provide persistent subsidies to swamp forests along an estuarine island food chain](https://link.springer.com/article/10.1007/s00442-023-05377-y)
+ Related publication: [Colonial waterbirds provide persistent subsidies to swamp forests along an estuarine island food chain](https://link.springer.com/article/10.1007/s00442-023-05377-y/)
 
 ## RETER-TRINDADE: Recovery of the Terrestrial Ecosystem of the Island of Trindade, avoiding the extinction of endangered species
 
